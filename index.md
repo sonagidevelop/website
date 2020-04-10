@@ -1,4 +1,4 @@
-## ㅇㅏㄴㅣ ㅎㅏㄴㄱㅡㄹ ㅇㅗㅐ ㄲㅐㅈㅕ?
+## welcome to jh choi's first blog.
 
 You can use the [editor on GitHub](https://github.com/sonagidevelop/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
