@@ -2,6 +2,12 @@
 
 한글 되나? 한글 되는지 안되는지 한 번 체크 해 봅시다!
 
+
+# 제가 한 번 뭘 할 수 있는지 알아보겠습니다.
+# 4월 10일 처음 만든 페이지인데, 앞으로 기능이 많아지면 좋겠군요.
+우선 이런 기능을 넣어 보고 싶습니다.
+    그 날 그날 배운 걸 넣어보는 기능
+    나만의 포트폴리오를 만들어 보는 겁니다.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
